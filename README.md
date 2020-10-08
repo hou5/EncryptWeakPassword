@@ -5,8 +5,7 @@
 #### 🚀基本使用
 
 **1.下载和安装**
-
-![image-20201008134435142](.\images\image-20201008134435142.png)
+<img src=".\images\image-20201008134435142.png" alt="image-20201008150708322" style="zoom:80%;" />
 
 只需要下载PWDemo.exe和PWDemo.pdb，双击PWDemo.exe即可运行。为了方便使用，可以添加快捷方式。
 
