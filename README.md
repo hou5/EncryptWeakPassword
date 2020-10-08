@@ -24,7 +24,7 @@
 
 还比如银行的支付密码：
 
-<img src=".\images\image-20201008153617060.png" alt="image-20201008150825253" style="zoom:67%;" />
+<img src=".\images\image-20201008153617060.png" alt="image-20201008153617060" style="zoom:67%;" />
 
 #### 😘说明~
 
